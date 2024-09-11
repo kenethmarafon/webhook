@@ -55,7 +55,7 @@ subscription_canceled: [Assinatura] - Cancelada
 subscription_delayed: [Assinatura] - Atrasada
 trial_started: [Assinatura] - Período de Testes Iniciado
 trial_ended: [Assinatura] - Período de Testes Encerrado
-uncanceled: [Assinatura] - Retomada |
+uncanceled: [Assinatura] - Retomada
 | telefone | | |
 | token | | |
 | transaction_bank_slip_code | | |
