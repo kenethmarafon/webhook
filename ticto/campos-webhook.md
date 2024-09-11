@@ -7,8 +7,8 @@ Ela descreve quais campos e quais tipos de dados serão enviados enviandos na in
 
 Os eventos são enviados toda vez que é gerado um novo evento de fatura na Ticto.
 
-Parâmetro | Descrição
------------------- | ------------------
+Parâmetro | Descrição | Formato e tamanho suportado
+------------------ | ------------------ | ------------------
 aff_cod | Id do afiliado | Int?
 aff_document_number | Documento do afiliado | String?
 aff_email | E-mail do afiliado | String?
