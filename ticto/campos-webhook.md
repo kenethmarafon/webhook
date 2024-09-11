@@ -44,7 +44,7 @@ order_hash
 order_installments
 order_paid_amount
 payment_method
-status|Possíveis valores abandoned_cart: Abandono de Carrinho authorized: Venda Realizada bank_slip_delayed: Boleto Atrasado bank_slip_created: Boleto Impresso chargeback: Chargeback close: Encerrado pix_created: Pix Gerado pix_expired: Pix Expirado refunded:Reembolso refused: Venda Recusada
+status | `Possíveis valores` - abandoned_cart: Abandono de Carrinho - authorized: Venda Realizada bank_slip_delayed: Boleto Atrasado bank_slip_created: Boleto Impresso chargeback: Chargeback close: Encerrado pix_created: Pix Gerado pix_expired: Pix Expirado refunded:Reembolso refused: Venda Recusada
 trial: Tempo de Teste
 waiting_payment: Aguardando Pagamento
 all_charges_paid: [Assinatura] - Encerrada (Todas as Cobranças Finalizadas)
