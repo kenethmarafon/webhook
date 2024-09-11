@@ -1,9 +1,6 @@
 # Documentação de eventos webhook - Ticto para a Devzapp ⚡
 
-### - [x] Versão 2.0 (Recomendada)
-
-- [ ] Tarefa 1
-- [x] Tarefa 2
+### Versão 2.0 (Recomendada)
 
 Para se integrar com eventos do tipo fatura, deve ser seguida a documentação abaixo.
 Ela descreve quais campos e quais tipos de dados serão enviados enviandos na integração da Ticto com a Devzapp.
