@@ -1,4 +1,3 @@
-@@ -0,0 +1,215 @@
 # Documentação de eventos webhook - Kiwify para a Devzapp
 
 Para se integrar com eventos do tipo fatura, deve ser seguida a documentação abaixo.
