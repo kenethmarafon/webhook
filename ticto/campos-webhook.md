@@ -9,21 +9,44 @@ Os eventos são enviados toda vez que é gerado um novo evento de fatura na Tict
 
 Parâmetro | Descrição | Formato e tamanho suportado
 ------------------ | ------------------ | ------------------
-aff_cod | Id do afiliado | Int?
-aff_document_number | Documento do afiliado | String?
-aff_email | E-mail do afiliado | String?
-aff_name |  Nome do afiliado | String?
-aff_value | Valor da comissão do afiliado | Float?
-billet_url | Página com a chave gerada para o produto | String
-cus_address | Endereço do cliente | String
-cus_address_city | Cidade do cliente | String
-cus_address_comp | Complemento do endereço do cliente | String
-cus_address_country | País do cliente | String
-cus_address_district | Bairro do cliente | String
-cus_address_number | Numero do endereço do cliente | String
-cus_address_state | Estado do clieente | String
-cus_address_zip_code | CEP do cliente | String
-cus_cel | Celular do cliente | String
-cus_tel | Telefone do cliente | String
-cus_tel2 | Segundo telefone do cliente | String
-cus_cod | Id do cliente na Eduzz | Int
+campanhaId
+customer_address_city
+customer_address_complement
+customer_address_neighborhood
+customer_address_state
+customer_address_street
+customer_address_street_number
+customer_address_zip_code
+customer_cnpj
+customer_cpf
+customer_email
+customer_is_foreign
+customer_name
+customer_phone_ddd
+customer_phone_ddi
+customer_phone_number
+customer_type
+dataCriacao
+idPai
+idProcess
+item_amount
+item_coupon_id
+item_days_of_access
+item_members_classroom_id
+item_members_portal_id
+item_offer_id
+item_offer_name
+item_product_id
+item_product_name
+item_quantity
+item_trial_days
+order_hash
+order_installments
+order_paid_amount
+payment_method
+status
+telefone
+token
+transaction_bank_slip_code
+transaction_bank_slip_url
+url_params_query_params_code
