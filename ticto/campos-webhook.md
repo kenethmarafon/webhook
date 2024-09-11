@@ -55,9 +55,9 @@ Parâmetro | Descrição | Formato e tamanho suportado
 | subscription_delayed: [Assinatura] - Atrasada
 | trial_started: [Assinatura] - Período de Testes Iniciado
 | trial_ended: [Assinatura] - Período de Testes Encerrado
-| uncanceled: [Assinatura] - Retomada
-| telefone
-| token
-| transaction_bank_slip_code
-| transaction_bank_slip_url
-| url_params_query_params_code
+| uncanceled: [Assinatura] - Retomada | | |
+| telefone | | |
+| token | | |
+| transaction_bank_slip_code | | |
+| transaction_bank_slip_url | | |
+| url_params_query_params_code | | |
