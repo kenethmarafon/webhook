@@ -44,7 +44,27 @@ order_hash
 order_installments
 order_paid_amount
 payment_method
-status
+status|Possíveis valores
+abandoned_cart: Abandono de Carrinho
+authorized: Venda Realizada
+bank_slip_delayed: Boleto Atrasado
+bank_slip_created: Boleto Impresso
+chargeback: Chargeback
+close: Encerrado
+pix_created: Pix Gerado
+pix_expired: Pix Expirado
+refunded:Reembolso
+refused: Venda Recusada
+trial: Tempo de Teste
+waiting_payment: Aguardando Pagamento
+all_charges_paid: [Assinatura] - Encerrada (Todas as Cobranças Finalizadas)
+card_exchanged: [Assinatura] - Cartão atualizado
+extended: [Assinatura] - Extendida
+subscription_canceled: [Assinatura] - Cancelada
+subscription_delayed: [Assinatura] - Atrasada
+trial_started: [Assinatura] - Período de Testes Iniciado
+trial_ended: [Assinatura] - Período de Testes Encerrado
+uncanceled: [Assinatura] - Retomada|
 telefone
 token
 transaction_bank_slip_code
